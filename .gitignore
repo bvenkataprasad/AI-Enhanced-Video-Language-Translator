@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+uploads/
+processed/
+clean_testset_wav/
+
